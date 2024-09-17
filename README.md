@@ -11,5 +11,6 @@ My name is Darren McGee. I am a veterinarian by training, and I specialize in da
 - Technical services veterinarian for Elanco Animal Health
 
 Below is a photo of Brangus replacement females from Mississippi Land and Cattle Company located in Starkville, MS.
-![brangus heifers](/assets/images/san-juan-mountains.jpg "Brangus Replacements")
+
+[![Brangus Heifers]("Brangus Replacements")]([https://github.com/dm281/Python-Experiments/blob/main/MS%20Land%20and%20Cattle%20Photo%20002.jpg])
 
