@@ -1,2 +1,5 @@
 # Python-Experiments DM
-TODO: Put description here...
+This repository is my initial learning experience with GitHub in DSCI 8133.
+
+**Plan**
+
